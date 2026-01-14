@@ -2,7 +2,7 @@
 
 **AfriReuse UK** is a community-driven digital platform designed to enable structured, safe, and transparent reuse of household items through a donor–recipient workflow system.
 
-Unlike traditional listing platforms that operate as simple post-and-message marketplaces, AfriReuse UK introduces a **process-oriented reuse lifecycle** — from item listing to request validation, pickup scheduling, dispute handling, and completion tracking.
+Unlike traditional listing platforms that operate as simple post-and-message marketplaces, AfriReuse UK introduces a **process-oriented reuse lifecycle** ,from item listing to request validation, pickup scheduling, dispute handling, and completion tracking.
 
 ---
 
